@@ -9,7 +9,7 @@
 
 ## Herramientas que usé
 <!-- Ej.: GitHub Copilot en VS Code, ChatGPT, Claude, Cursor. Indica también si no usaste ninguna. -->
-No use ninguna IA
+se uso source control de visual studio code que es una extension para git, que ayuda en la creacion del repositorio y gestion de git
 ## Qué le pedí
 <!-- Escribe el prompt real, no un resumen idealizado -->
 
