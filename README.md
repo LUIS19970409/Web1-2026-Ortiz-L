@@ -1,14 +1,13 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** Luis Enrique Ortiz Garcia
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** @LUIS19970409
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+Me gusta el desarrollo y la estructura de software, crear aplicaciones utiles para el uso diario
 
 ## Progreso de la campaña
 
